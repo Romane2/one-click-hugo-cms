@@ -4,7 +4,7 @@ image: img/capture-d’écran-2021-04-15-à-16.37.05.jpg
 values:
   - heading: Chicago
     text: Juillet 2019, nous avons découvert The Windy City, Chicago
-    imageUrl: img/capture-d’écran-2021-04-15-à-16.36.08.jpg
+    imageUrl: img/capture-d’écran-2021-04-15-à-15.21.56.jpg
   - heading: Single origin
     text: >
       Single-origin coffee is coffee grown within a single known geographic
