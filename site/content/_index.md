@@ -4,7 +4,7 @@ subtitle: Découvrez les récits de nos voyages
 image: img/_mg_9859-modifier.jpg
 blurb:
   heading: Qui sommes nous ?
-  text: Nous sommes 2 voyageurs....
+  text: Nous sommes un couple de passionnés de voyages.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
