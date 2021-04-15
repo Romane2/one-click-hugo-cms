@@ -34,7 +34,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: Ce que nous faisons dans la vie
-  description: mqjfqfhfh zqkfhqkhfsqkfk khfk. f  kqhfkhf kj fkhf kdhh k
+  description: Venez découvrir tous les récits de nos voyages à travers des pays
+    de différents continents.
 main:
   heading: Great coffee with no compromises
   description: >
